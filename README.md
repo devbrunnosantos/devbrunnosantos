@@ -21,7 +21,7 @@
   <hr>
   <div >
   - 🔭 Hoje estou trabalhando com desenvolvimento Full Stack<br>
-  - 🌱 Atualmente estudnando React.Js, Node.Js, Python e Django<br>
+  - 🌱 Atualmente estudando React.Js, Node.Js, Python e Django<br>
   - 📫 Contate-me no email: contato@brunosantostecnologia.com.br<br>
   </div>
   <br>
