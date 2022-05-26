@@ -2,11 +2,6 @@
   <p style="font-size: x-large"><b>Olá! Eu sou Bruno Santos 👋<b></p>
 </div>
 <hr>
-<div align="center">
-  <a href="https://github.com/brunosantoos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunosantoos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosantoos&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   <hr>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,6 +25,5 @@
   <a href = "mailto:contato@brunosantostecnologia.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-c-ba2302135/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/brunosantoos/brunosantoos/blob/output/github-contribution-grid-snake.svg)
  
 </div>
