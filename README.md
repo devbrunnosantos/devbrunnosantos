@@ -2,7 +2,6 @@
   <p style="font-size: x-large"><b>Olá! Eu sou Bruno Santos 👋<b></p>
 </div>
 <hr>
-  <hr>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -13,7 +12,6 @@
  <!-- <img align="right" alt="Rafa-pic" height="150" style="border-radius:100px;" src="https://c.tenor.com/8az9M32_Vf4AAAAC/gumball-flossing.gif"> -->
 </div>
   <br>
-  <hr>
   <div >
   - 🔭 Hoje estou trabalhando com desenvolvimento Full Stack<br>
   - 🌱 Atualmente estudando React.Js, Node.Js, Python e Django<br>
