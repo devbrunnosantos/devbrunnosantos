@@ -1,12 +1,36 @@
-# Bruno Santos
+### Hi, I'm Pedro 
 
-Desenvolvedor Web - Python | Django | ReactJS | NodeJS
+[![LinkedIn](https://img.shields.io/badge/bruno_santos-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-c-ba2302135/)
+[![Gmail](https://img.shields.io/badge/bruno_santos-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno.cristiano.santos@gmail.com)
+
+💻 BackEnd Developer <br />
+🏡 Brazilian, Based in Anápolis, GO 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Santos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)]([(https://www.linkedin.com/in/bruno-c-ba2302135/)]) 
-[![Gmail Badge](https://img.shields.io/badge/-bruno.cristiano.santos@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruno.cristiano.santos@gmail.com)](mailto:bruno.cristiano.santos@gmail.com)
+<img align="right" alt="imagem" src="https://github.com/peidrao/peidrao/blob/main/test.png?raw=true" width="500" height="320" />
+  
+  
+### :wrench: Bruno Santos
 
-Enthusiast of the best web development technologies.
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/DJANGO-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;\
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 
-"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
+### :rocket: Experience With
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/DJANGO-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+
+
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=brunosantoos&hide=["issues"]&show_icons=true&theme=dracula)
+
+
+
+
 
