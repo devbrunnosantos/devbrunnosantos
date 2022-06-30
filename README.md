@@ -28,8 +28,6 @@
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=brunosantoos&hide=["issues"]&show_icons=true&theme=dracula)
-
 
 
 
