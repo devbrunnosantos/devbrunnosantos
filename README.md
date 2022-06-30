@@ -1,4 +1,4 @@
-### Hi, I'm Pedro 
+### Hi, I'm Bruno 
 
 [![LinkedIn](https://img.shields.io/badge/bruno_santos-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-c-ba2302135/)
 [![Gmail](https://img.shields.io/badge/bruno_santos-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno.cristiano.santos@gmail.com)
