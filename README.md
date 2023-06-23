@@ -12,7 +12,6 @@
   
 ### :wrench: Work Tools
 
-![Ruby On Rails](https://img.shields.io/badge/Ruby-ff1709?style=flat&logo=Ruby&logoColor=Red)
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;\
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
