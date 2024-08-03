@@ -13,7 +13,7 @@
 ### :wrench: Work Tools
 
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;\
-![TypeScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=TypeScript&logoColor=%23F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-323330.svg?&style=flat&logo=typescript&logoColor=%23F7DF1E)&nbsp;
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 
 ### :rocket: Experience With
