@@ -21,9 +21,6 @@
 ![NodeJS](https://img.shields.io/badge/NODE-JS-%23563D7C.svg?style=flat&logo=nodejs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/typescript-323330.svg?&style=flat&logo=typescript&logoColor=%23F7DF1E)&nbsp;
 
-![Most User Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosantoos&theme=dracula)
-
-
 
 
 
